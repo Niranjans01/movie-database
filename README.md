@@ -1,9 +1,7 @@
-### Updated README Draft for GitHub Repository
-
-#### Project Name: Movie Information System (MIS)
+#### Project Name: Movie Database Application
 
 #### Introduction
-The Movie Information System is designed to provide users with the ability to see list of movies, view detailed information about specific movies, and submit personal ratings.
+The Movie Database Application is designed to provide users with the ability to see list of movies, view detailed information about specific movies, and submit personal ratings.
 
 #### Technology Stack
 - **Development Design** : Used Atomic, Domain driven development approach, Separating concerns etc to support redability and scalability.
