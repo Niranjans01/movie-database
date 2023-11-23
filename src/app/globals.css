@@ -25,3 +25,34 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.item-image{
+  width: 200px !important;
+  overflow: hidden;
+  margin-right: 10px;
+}
+
+.item-video{
+  width: 350px !important;
+  margin-right: 15px;
+}
+
+.star-rating {
+  display: inline-flex;
+  direction: row-reverse;
+  justify-content: center;
+}
+
+.star-rating input[type="radio"] {
+  display: none;
+}
+
+.star {
+  cursor: pointer;
+  color: gold;
+  font-size: 2em;
+}
+
+.star.filled {
+  color: orange;
+}
