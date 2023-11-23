@@ -6,6 +6,7 @@
 The Movie Information System is designed to provide users with the ability to see list of movies, view detailed information about specific movies, and submit personal ratings.
 
 #### Technology Stack
+- **Development Design** : Used Atomic, Domain driven development approach, Separating concerns etc to support redability and scalability.
 - **Next.js**: The primary React framework for building the application.
 - **Cypress**: Used for robust component testing and end-to-end (E2E) testing.
 - **TypeScript**: Ensures type safety and enhances code quality.
